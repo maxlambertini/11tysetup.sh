@@ -12,7 +12,7 @@ An [Eleventy](https://11ty.dev) site bootstrapper
 - Creates 20 random blog posts by invoking https://fakedown.xoxarle.com/eleventy-post 20 times
 - Creates a random color scheme (three dark colors and three light colors. End result might be yucky. _You have been warned._)
 
-However, [the end result](https://11tysetupsh.netlify.app/) is a responsive, complete mockup of a site that scores 400 points on [Google Page Speed Insight](https://web.dev/measure/)
+However, [the end result](https://11tysetupsh.netlify.app/) is a responsive, complete mockup of a site that scores 400 points on [Google Page Speed Insight](https://web.dev/measure/). It might be ugly, but it gets there. `;-) `
 
 ## Requirements
 
@@ -56,7 +56,8 @@ However, with the exceptiopn of CSS Reset and two partials, the remainder of the
 
 ## Where next? 
 
-The script lacks SASS and Gulp capabilities. 
+- Top menu of blog pages _must_ be changed
+- The script lacks SASS and Gulp capabilities. 
 
 ## License
 
